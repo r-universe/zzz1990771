@@ -11,6 +11,3 @@
 [submodule "localboot"]
 	path = localboot
 	url = https://github.com/zzz1990771/localboot
-[submodule "siqr"]
-	path = siqr
-	url = https://github.com/zzz1990771/siqr
